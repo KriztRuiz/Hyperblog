@@ -1,0 +1,45 @@
+[33mcommit 827e38f13168a9dda4d7cce1b69b55b84b25b3ee[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Cristian Ruiz <xcrcx@live.com.mx>
+Date:   Sun Jan 14 23:31:26 2024 -0600
+
+    Cambio de maestria
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 4d14eab92cc36a17aaf85b17bf8f3dd91995b9d7[m
+Author: Cristian Ruiz <xcrcx@live.com.mx>
+Date:   Sun Jan 14 23:30:25 2024 -0600
+
+    Cambio de Vida
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 7f00689f8674a6a7bd70e511a32cbcf681442f9b[m
+Author: Cristian Ruiz <xcrcx@live.com.mx>
+Date:   Sun Jan 14 23:28:36 2024 -0600
+
+    Arranco proyecto real con HTML y CSS
+
+ blogpost.html   | 10 [32m++++++++++[m
+ css/estilos.css |  6 [32m++++++[m
+ 2 files changed, 16 insertions(+)
+
+[33mcommit 96268a69e5e94e228c0633e26a5efb038b93fdf4[m
+Author: Cristian Ruiz <xcrcx@live.com.mx>
+Date:   Sun Jan 14 12:15:32 2024 -0600
+
+    Cambios al archivo de historia para reflejar la edad correcta
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit 1e608f38b25731f97ac5a8694877c9a5eeb04ca9[m
+Author: Cristian Ruiz <xcrcx@live.com.mx>
+Date:   Sun Jan 14 11:55:35 2024 -0600
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
