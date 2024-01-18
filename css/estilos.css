@@ -27,7 +27,7 @@ body
 
 #cabecera #tagline
 {
-    padding: 0 0 0 1em;
+    margin: 0 0 0 1em;
     font-weight: normal;
     font-size: 0.8em;
 }
@@ -37,7 +37,7 @@ body
     width: 70%;
     padding: 0;
     text-align: left;
-    border: solid #ddd;
+    border: 1ox solid #ddd;
     margin: 0 auto;
 }
 
@@ -50,4 +50,12 @@ body
 {
     background: white;
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
